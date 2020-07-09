@@ -2,7 +2,7 @@
   <div id="home">
     <my-header></my-header>
     <div class="content">
-      <span class="content-text header-text animated slow bounceInLeft">Libra</span>
+      <span class="content-text header-text animated slow bounceInLeft">Pisces</span>
       <span class="content-text sub-text animated slow lightSpeedIn">在生活里，我们永远是初学者</span>
       <router-link to="/contact" class="contact">
         <i class="iconfont iconcontact"></i>

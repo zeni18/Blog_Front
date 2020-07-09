@@ -1,7 +1,7 @@
 <template>
   <nav class="topbar">
     <span class="logo">
-      <span class="logo-text">L</span>
+      <span class="logo-text">P</span>
     </span>
     <ul class="menu">
       <li class="menu-item">

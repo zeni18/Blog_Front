@@ -1,4 +1,4 @@
-# libra-blog
+# pisces-blog
 
 ## Project setup
 ```
